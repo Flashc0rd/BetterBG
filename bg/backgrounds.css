@@ -106,8 +106,15 @@
 [data-user-id="820687713777877003"]{
     --user-background: url('https://i.imgur.com/wEzGJVX.gif');
 }
+
 /*jewdev#8485*/
 [user_by_bdfdb="222369866529636353"],
 [data-user-id="222369866529636353"]{
     --user-background: url('https://i.imgur.com/xe9frRP.gif');
+}
+
+/*Terminal#8147*/
+[user_by_bdfdb="826113833399222362"],
+[data-user-id="826113833399222362"]{
+    --user-background: url('https://cdn.discordapp.com/attachments/812727960468586496/826907711181684796/280620matrix.png');
 }
