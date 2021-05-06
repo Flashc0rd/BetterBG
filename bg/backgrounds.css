@@ -36,8 +36,8 @@
 [vz-user-id="428450288668508160"],
 [data-author-id="428450288668508160"],
 [src*="428450288668508160"],
-[aria-label=""],
-[aria-label^=""] {
+[aria-label="Harry."],
+[aria-label^="Harry."] {
     --user-background: url('https://cdn.discordapp.com/attachments/818142332641607712/820242623888752640/harry.png');
 }
 
