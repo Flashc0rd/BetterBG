@@ -302,3 +302,14 @@
 [aria-label^="Imperium"] {
     --user-background: url('https://cdn.discordapp.com/attachments/808009216953810967/837631972033036318/292hFDcNeHZC.png');
 }
+
+/* Nyria#3863 */
+[user_by_bdfdb="265924886461939712"],
+[data-user-id="265924886461939712"],
+[vz-user-id="265924886461939712"],
+[data-author-id="265924886461939712"],
+[src*="265924886461939712"],
+[aria-label="Nyria"],
+[aria-label^="Nyria"] {
+--user-background: url('https://i.imgur.com/NTRvlv4.jpg');
+}
