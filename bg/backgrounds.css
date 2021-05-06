@@ -14,9 +14,13 @@
 }
 
 /*ItsJustJosh*/
-
+[data-author-id="362628885361197056"],
+[vz-user-id="362628885361197056"],
+[data-user-id="362628885361197056"],
+[src*="362628885361197056"],
 [user_by_bdfdb="362628885361197056"],
-[data-user-id="362628885361197056"] {
+[aria-label="It'sJustJosh"],
+[aria-label^="It'sJustJosh"] {
     --user-background: url('https://i.imgur.com/bLjT5yC.png');
 }
 
