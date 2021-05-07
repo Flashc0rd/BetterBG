@@ -8,9 +8,5 @@
  * @invite none at the moment
 */
 
-/*
-The backgrounds css.
-*/
-@import url('https://flashc0rd.github.io/BetterBG/bg/backgrounds.css');
-@import url('https://flashc0rd.github.io/BetterBG/modals.css');
-@import url('https://flashc0rd.github.io/BetterBG/userPopouts.css');
+/* Import URL */
+@import url('https://flashc0rd.github.io/BetterBG/src/main.css');
