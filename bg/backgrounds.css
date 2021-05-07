@@ -261,3 +261,11 @@
 [data-author-id="515780151791976453"],
 [aria-label^="Doggybootsy(pinging is okay)"] {
 --user-background: url('https://i.imgur.com/dkndkV8.jpg');}
+
+/* Ainsley Josh's Friend */
+[user_by_bdfdb="744392112996352080"],
+[data-user-id="744392112996352080"],
+[vz-user-id="744392112996352080"],
+[data-author-id="744392112996352080"],
+[aria-label^="Cosmic_Snakes (Ainsley)"] {
+--user-background: url('https://cdn.discordapp.com/attachments/768889408081625129/840324132612210718/StreamImageStarter.png');}
