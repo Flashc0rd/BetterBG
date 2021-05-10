@@ -300,3 +300,27 @@
 [user_by_bdfdb="725512473678970940"],
 [aria-label^="Andrew"] {
 --user-background: url('https://cdn.discordapp.com/attachments/809836653429391360/841356916520779796/image0.png');}
+
+/* Pukima#8949 */
+[data-author-id="751092600890458203"],
+[vz-user-id="751092600890458203"],
+[data-user-id="751092600890458203"],
+[user_by_bdfdb="751092600890458203"],
+[aria-label^="Pukima"] {
+--user-background: url('https://cdn.discordapp.com/attachments/826509018674888766/841369123400581150/unknown.png');}
+
+/* 01#0101 */
+[data-author-id="187402426968571904"],
+[vz-user-id="187402426968571904"],
+[data-user-id="187402426968571904"],
+[user_by_bdfdb="187402426968571904"],
+[aria-label^="01"] {
+--user-background: url('https://cdn.discordapp.com/attachments/379521692420145161/841412898215165992/cat.png');}
+
+/* Freeplay#5676 */
+[data-author-id="158296466119458816"],
+[vz-user-id="158296466119458816"],
+[data-user-id="158296466119458816"],
+[user_by_bdfdb="158296466119458816"],
+[aria-label^="Freeplay"] {
+--user-background: url('https://cdn.discordapp.com/attachments/379521692420145161/841073860501045268/foxxo_in_sno.jpg');}
