@@ -22,8 +22,15 @@
 [data-user-id="362628885361197056"],
 [user_by_bdfdb="362628885361197056"],
 [aria-label^="It'sJustJosh"] {
-    --user-background: url('https://i.imgur.com/bLjT5yC.png');
-}
+--user-background: url('https://i.imgur.com/bLjT5yC.png');}
+/*Joshua Malava#0079*/
+[data-author-id="750781478991954031"],
+[vz-user-id="750781478991954031"],
+[data-user-id="750781478991954031"],
+[user_by_bdfdb="750781478991954031"],
+[aria-label^="Joshua Malava"] {
+--user-background: url('https://i.imgur.com/9McFsrM.png');}
+
 
 /*Harry#9999*/
 
