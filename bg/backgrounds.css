@@ -324,3 +324,12 @@
 [user_by_bdfdb="158296466119458816"],
 [aria-label^="Freeplay"] {
 --user-background: url('https://cdn.discordapp.com/attachments/379521692420145161/841073860501045268/foxxo_in_sno.jpg');}
+
+/*etwo*/
+[data-author-id="834571451612004383"],
+[vz-user-id="834571451612004383"],
+[data-user-id="834571451612004383"],
+[user_by_bdfdb="834571451612004383"],
+[aria-label^="etwo"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/820007083704582196/843212207889711104/original.gif");
+}
