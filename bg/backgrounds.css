@@ -301,13 +301,13 @@
 [aria-label^="Andrew"] {
 --user-background: url('https://cdn.discordapp.com/attachments/809836653429391360/841356916520779796/image0.png');}
 
-/* Pukima#8949 */
+/* Pukima#8949 *//* Randomized Backgrounds */
 [data-author-id="751092600890458203"],
 [vz-user-id="751092600890458203"],
 [data-user-id="751092600890458203"],
 [user_by_bdfdb="751092600890458203"],
 [aria-label^="Pukima"] {
---user-background: url('https://images-ext-2.discordapp.net/external/94qHUKkSIyXtWxPRnCCaV3huOI43Q4PA_J-jkC5ZayI/https/source.unsplash.com/user/pukima?width=360&height=240');}
+--user-background: url('https://source.unsplash.com/user/pukima');}
 
 /* 01#0101 */
 [data-author-id="187402426968571904"],
