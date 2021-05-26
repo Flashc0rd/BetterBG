@@ -333,3 +333,12 @@
 [aria-label^="etwo"] {
     --user-background: url("https://cdn.discordapp.com/attachments/820007083704582196/843212207889711104/original.gif");
 }
+
+/*threat*/
+[data-author-id="736313894464651335"],
+[vz-user-id="736313894464651335"],
+[src*="736313894464651335"],
+[user_by_bdfdb="736313894464651335"],
+[aria-label^="threat"] {
+    --user-background: url("https://cdn.discordapp.com/attachments/844188297587851275/847089230878212106/image0_40.gif");
+}
