@@ -1,9 +1,0 @@
-{
-    "name": "BetterBG",
-    "description": "A better alternative to usrbg, has it's own BG Database, and it's not dead :)",
-    "version": "1.0",
-    "author": "Team Flashcord",
-    "theme": "BetterBG.theme.css",
-    "consent": "false",
-    "license": "MIT"
-}
