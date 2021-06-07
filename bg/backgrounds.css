@@ -342,3 +342,12 @@
 [aria-label^="threat"] {
     --user-background: url("https://cdn.discordapp.com/attachments/844188297587851275/847089230878212106/image0_40.gif");
 }
+
+/*OliviaTheVampire*/
+[data-author-id="135067990201729024"],
+[vz-user-id="135067990201729024"],
+[src*="135067990201729024"],
+[user_by_bdfdb="135067990201729024"],
+[aria-label^="OliviaTheVampire"] {
+    --user-background: url("https://imgur.com/6be5qID");
+}
