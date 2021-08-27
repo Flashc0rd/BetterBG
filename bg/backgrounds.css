@@ -17,12 +17,14 @@
 }
 
 /*ItsJustJosh*/
-[data-author-id="362628885361197056"],
-[vz-user-id="362628885361197056"],
-[data-user-id="362628885361197056"],
 [user_by_bdfdb="362628885361197056"],
+[data-user-id="362628885361197056"],
+[vz-user-id="362628885361197056"],
+[data-author-id="362628885361197056"],
 [aria-label^="It'sJustJosh"] {
---user-background: url('https://i.imgur.com/bLjT5yC.png');}
+--USRBG-banner-height: 60%;
+--user-background:
+url('https://media.discordapp.net/attachments/751155896024826018/878581917312749629/decorate.png') center !important;}
 /*Joshua Malava#0079*/
 [data-author-id="750781478991954031"],
 [vz-user-id="750781478991954031"],
